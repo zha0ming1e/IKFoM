@@ -7,6 +7,7 @@
 [Dongjiao He](https://github.com/Joanna-HE)
 
 **Our related video**: https://youtu.be/sz_ZlDkl6fA
+**Our related paper**: Symbolic Representation and Toolkit Development of Iterated Error-State Extended Kalman Filters on Manifolds, published on IEEE Transcations on Industrial Electronics, Early access: DOI: 10.1109/TIE.2023.3237872
 
 ## 1. Prerequisites
 
